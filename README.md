@@ -16,7 +16,7 @@ Este documento contiene la documentación completa del proyecto **MiPlata**, des
 ## 2. Enlaces de Revisión
 
 - **Página Web Desplegada (Vercel):** [https://mi-plata2-two.vercel.app/]
-- **Repositorio de GitHub:** [PEGA AQUÍ EL LINK DE TU REPOSITORIO DE GITHUB]
+- **Repositorio de GitHub:** [https://github.com/Alejavelasqquez-del/App_Miplata.git]
 
 > **Nota:** La aplicación cuenta con un entorno de Frontend interactivo y un Backend funcional conectado a Supabase para la autenticación y persistencia de datos.
 
